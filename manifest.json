@@ -1,0 +1,232 @@
+[
+  {
+    "lesson": 1,
+    "id": "1-1",
+    "title": "从想法到画面与新手疑问",
+    "file": "01_动画1-1_从想法到画面与新手疑问_固定背景版_10秒_1080P.mp4",
+    "bundlePath": "videos/01_第1节/动画1-1/动画1-1_从想法到画面与新手疑问_固定背景版_10秒_1080P.mp4",
+    "sha256": "9b931825cf9313747ec4e1b483b920b7b277099cade225b8b395a8d074062595",
+    "bytes": 611810,
+    "decode": "passed"
+  },
+  {
+    "lesson": 1,
+    "id": "1-2",
+    "title": "课程结构_工具讲解与案例实战",
+    "file": "01_动画1-2_课程结构_工具讲解与案例实战_固定背景版_10秒_1080P.mp4",
+    "bundlePath": "videos/01_第1节/动画1-2/动画1-2_课程结构_工具讲解与案例实战_固定背景版_10秒_1080P.mp4",
+    "sha256": "a86a6db66543f5802d05237ffa411a250fb388c1da5bf79dbcc83afd721f745a",
+    "bytes": 666069,
+    "decode": "passed"
+  },
+  {
+    "lesson": 1,
+    "id": "1-3",
+    "title": "理论实践与作品用途",
+    "file": "01_动画1-3_理论实践与作品用途_固定背景版_10秒_1080P.mp4",
+    "bundlePath": "videos/01_第1节/动画1-3/动画1-3_理论实践与作品用途_固定背景版_10秒_1080P.mp4",
+    "sha256": "34dca37a08e827bfaf2dc0571f95facb756b68857a1f69a313621cc7a92fbdb6",
+    "bytes": 615274,
+    "decode": "passed"
+  },
+  {
+    "lesson": 1,
+    "id": "01-02",
+    "title": "从创意到成片",
+    "file": "01_配套素材01-02_从创意到成片_10秒_1080P.mp4",
+    "bundlePath": "videos/01_第1节/配套素材01-02/配套素材01-02_从创意到成片_10秒_1080P.mp4",
+    "sha256": "8cbcb9ba0f54d5f8105cbcd4a64d173a3372eb5a438da4b721d34cb176711c4c",
+    "bytes": 601059,
+    "decode": "passed"
+  },
+  {
+    "lesson": 2,
+    "id": "2-1",
+    "title": "认识画布节点连线与基础流程",
+    "file": "02_动画2-1_认识画布节点连线与基础流程_固定背景版_10秒_1080P.mp4",
+    "bundlePath": "videos/02_第2节/动画2-1/动画2-1_认识画布节点连线与基础流程_固定背景版_10秒_1080P.mp4",
+    "sha256": "6abbe61f758ceaff01b554d1b448dd2feeb849fea2887edf44ee82ad0edd5e0a",
+    "bytes": 550383,
+    "decode": "passed"
+  },
+  {
+    "lesson": 2,
+    "id": "02-08",
+    "title": "文字到人物图舞台图与跳舞视频",
+    "file": "02_动画02-08_文字到人物图舞台图与跳舞视频_固定背景版_10秒_1080P.mp4",
+    "bundlePath": "videos/02_第2节/配套素材02-08/动画02-08_文字到人物图舞台图与跳舞视频_固定背景版_10秒_1080P.mp4",
+    "sha256": "0fb231039c18e640f4db2d4c7016c0a7dd909f77f8befa1beef6c8ca16c7810e",
+    "bytes": 509468,
+    "decode": "passed"
+  },
+  {
+    "lesson": 3,
+    "id": "3-1",
+    "title": "Prompt是给模型的指令",
+    "file": "03_动画3-1_Prompt是给模型的指令_10秒_1080P.mp4",
+    "bundlePath": "videos/03_第3节/动画3-1/动画3-1_Prompt是给模型的指令_10秒_1080P.mp4",
+    "sha256": "06f1ac390a31c44a8d69942e585b4dc65bd227f3781c220eeabb3863d4da7158",
+    "bytes": 502766,
+    "decode": "passed"
+  },
+  {
+    "lesson": 3,
+    "id": "3-2",
+    "title": "提示词与收藏模板",
+    "file": "03_动画3-2_提示词与收藏模板_10秒_1080P.mp4",
+    "bundlePath": "videos/03_第3节/动画3-2/动画3-2_提示词与收藏模板_10秒_1080P.mp4",
+    "sha256": "b059fc8095e14cbb54cffd401ba8844550adc2f9b68de199ae1724276eaa233d",
+    "bytes": 484233,
+    "decode": "passed"
+  },
+  {
+    "lesson": 3,
+    "id": "3-3",
+    "title": "四部分完整提示词_V2",
+    "file": "03_四部分完整提示词_V2_26秒_1080P.mp4",
+    "bundlePath": "videos/03_第3节/动画3-3/四部分完整提示词_V2_26秒_1080P.mp4",
+    "sha256": "dff7b62afe6f3bf55f4038e75822fa03d0701b3831e930d0cc3dd9c3c04a29fe",
+    "bytes": 1687351,
+    "decode": "passed"
+  },
+  {
+    "lesson": 3,
+    "id": "3-4",
+    "title": "画面描述与美学参考",
+    "file": "03_动画3-4_画面描述与美学参考_10秒_1080P.mp4",
+    "bundlePath": "videos/03_第3节/动画3-4/动画3-4_画面描述与美学参考_10秒_1080P.mp4",
+    "sha256": "27df97bf96633edbc9bb818a2f61a458aa005ce8be76992ae6d0155cbffd30e3",
+    "bytes": 522261,
+    "decode": "passed"
+  },
+  {
+    "lesson": 3,
+    "id": "3-5",
+    "title": "图片生成本节回顾",
+    "file": "03_动画3-5_图片生成本节回顾_10秒_1080P.mp4",
+    "bundlePath": "videos/03_第3节/动画3-5/动画3-5_图片生成本节回顾_10秒_1080P.mp4",
+    "sha256": "06c1e93cb8f8fab9799695b04e5231b11000957e7290817cd07de013c35b185e",
+    "bytes": 525193,
+    "decode": "passed"
+  },
+  {
+    "lesson": 3,
+    "id": "3-6",
+    "title": "场景人物设计道具例图",
+    "file": "03_动画3-6_场景人物设计道具例图_10秒_1080P.mp4",
+    "bundlePath": "videos/03_第3节/动画3-6/动画3-6_场景人物设计道具例图_10秒_1080P.mp4",
+    "sha256": "faa34950addf41e2db3a4fe1ff2bf8e77acb2f790216ea8c20d90a8cd0f93569",
+    "bytes": 1248327,
+    "decode": "passed"
+  },
+  {
+    "lesson": 4,
+    "id": "4-1",
+    "title": "视频生成课程导览",
+    "file": "04_动画4-1_视频生成课程导览_10秒_1080P.mp4",
+    "bundlePath": "videos/04_第4节/动画4-1/动画4-1_视频生成课程导览_10秒_1080P.mp4",
+    "sha256": "973f2a9099abf429fb37f806416b6837ce4379811e8bd00443375b995d666a5f",
+    "bytes": 1042262,
+    "decode": "passed"
+  },
+  {
+    "lesson": 4,
+    "id": "4-2",
+    "title": "五项完整提示词_V2",
+    "file": "04_五项完整提示词_V2_36秒_1080P.mp4",
+    "bundlePath": "videos/04_第4节/动画4-2/五项完整提示词_V2_36秒_1080P.mp4",
+    "sha256": "4afbef38757dea319b99e3de861d93c2ac7b03e6d66bf5c88900616838fb1f9d",
+    "bytes": 2141501,
+    "decode": "passed"
+  },
+  {
+    "lesson": 5,
+    "id": "5-1",
+    "title": "Agent帮你组织操作",
+    "file": "05_动画5-1_Agent帮你组织操作_10秒_1080P.mp4",
+    "bundlePath": "videos/05_第5节/动画5-1/动画5-1_Agent帮你组织操作_10秒_1080P.mp4",
+    "sha256": "936e77c01b14a2c18dc971d2337a34a01e87cf7fceae046698b016ed2062190e",
+    "bytes": 495391,
+    "decode": "passed"
+  },
+  {
+    "lesson": 6,
+    "id": "6-1",
+    "title": "角色镜头动作的进阶工具",
+    "file": "06_动画6-1_角色镜头动作的进阶工具_10秒_1080P.mp4",
+    "bundlePath": "videos/06_第6节/动画6-1/动画6-1_角色镜头动作的进阶工具_10秒_1080P.mp4",
+    "sha256": "28c94cb5d9e19e2626fe14c91ae5f11c4f7aac98d28a80c02d773f2e78f8b472",
+    "bytes": 587658,
+    "decode": "passed"
+  },
+  {
+    "lesson": 8,
+    "id": "8-1",
+    "title": "送药剧情与悬念",
+    "file": "08_动画8-1_送药剧情与悬念_10秒_1080P.mp4",
+    "bundlePath": "videos/08_第8节/动画8-1/动画8-1_送药剧情与悬念_10秒_1080P.mp4",
+    "sha256": "73e582a90945403083ad069612f48133d51aa4bf072c865d5fb9140e6ce1afbd",
+    "bytes": 923260,
+    "decode": "passed"
+  },
+  {
+    "lesson": 4,
+    "id": "模式总览",
+    "title": "三模式依次强调",
+    "file": "04_三模式依次强调_10秒_1080P.mp4",
+    "bundlePath": "videos/04_第4节/补充_00分30秒90_三种模式/三模式依次强调_10秒_1080P.mp4",
+    "sha256": "50510ada5902c974c1232335e2368f1f279ccfc514ecb498be7cd6918f32de0b",
+    "bytes": 631770,
+    "decode": "passed"
+  },
+  {
+    "lesson": 4,
+    "id": "文生视频开头",
+    "title": "文生视频_单独开头",
+    "file": "04_文生视频_单独开头_5秒_1080P.mp4",
+    "bundlePath": "videos/04_第4节/补充_00分30秒90_三种模式/文生视频_单独开头_5秒_1080P.mp4",
+    "sha256": "8d0d42c6473b2129ad078fc9f35c3324103932ba46d93c1bbd3a1090f489e254",
+    "bytes": 264170,
+    "decode": "passed"
+  },
+  {
+    "lesson": 4,
+    "id": "首尾帧开头",
+    "title": "首尾帧生视频_单独开头",
+    "file": "04_首尾帧生视频_单独开头_5秒_1080P.mp4",
+    "bundlePath": "videos/04_第4节/补充_00分30秒90_三种模式/首尾帧生视频_单独开头_5秒_1080P.mp4",
+    "sha256": "ee834ee7c2fef105782347047e00519d716e7e36910061e7bcb1dd2a8bdc086c",
+    "bytes": 264226,
+    "decode": "passed"
+  },
+  {
+    "lesson": 4,
+    "id": "全能参考开头",
+    "title": "全能参考_单独开头",
+    "file": "04_全能参考_单独开头_5秒_1080P.mp4",
+    "bundlePath": "videos/04_第4节/补充_00分30秒90_三种模式/全能参考_单独开头_5秒_1080P.mp4",
+    "sha256": "39888a6e6095d20a9835ad0dfab355ad6b20e078ca6008147e88e02a150b67b6",
+    "bytes": 268462,
+    "decode": "passed"
+  },
+  {
+    "lesson": 8,
+    "id": "补充_剧本结构",
+    "title": "剧本结构",
+    "file": "08_补充_剧本结构_开头钩子_中段递进_结尾悬念_10秒_1080P.mp4",
+    "bundlePath": "videos/08_第8节/补充_剧本结构/补充_剧本结构_开头钩子_中段递进_结尾悬念_10秒_1080P.mp4",
+    "sha256": "185537cf38aaffb11795e0f09d8e809502e6b6650f7771240a96095515b0dd51",
+    "bytes": 498217,
+    "decode": "passed"
+  },
+  {
+    "lesson": 8,
+    "id": "补充_8-7_剪辑时间线",
+    "title": "8-7_剪辑时间线",
+    "file": "08_补充_8-7_剪辑时间线_切开_重新生成_原位替换_V2_10秒_1080P.mp4",
+    "bundlePath": "videos/08_第8节/补充_8-7_剪辑时间线/补充_8-7_剪辑时间线_切开_重新生成_原位替换_V2_10秒_1080P.mp4",
+    "sha256": "c9c499eb3c6c9f8b96f21abe50c67bf6f69fa033678624ea85a214f75982a913",
+    "bytes": 618448,
+    "decode": "passed"
+  }
+]
